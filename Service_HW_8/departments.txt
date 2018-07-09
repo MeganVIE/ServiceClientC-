@@ -1,0 +1,36 @@
+Department:
+IT
+Employee:
+Ivan
+Petrov
+25
+10000
+Junior manager
+Employee:
+Peter
+Sidorov
+22
+10000
+Junior manager
+Employee:
+Oleg
+Egorov
+33
+22000
+Senior manager
+Department:
+Counting room
+Employee:
+Anton
+Potanov
+27
+12000
+Accountant
+Employee:
+Viktor
+Ivanov
+30
+15000
+Accountant-general
+Department:
+123
